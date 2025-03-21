@@ -1,0 +1,32 @@
+.category-title {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .section-title {
+    font-size: 1.8rem;
+    color: #007bff;
+  }
+  
+  .designer-card {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .designer-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .designer-name {
+    font-weight: bold;
+  }
+  
+  .designer-badge {
+    background-color: #ff5722 !important;
+  }
+  
+  .designer-project {
+    color: #666;
+  }
+  
