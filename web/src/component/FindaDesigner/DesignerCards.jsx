@@ -6,7 +6,7 @@ const DesignerCards = () => {
   const designers = [
     { name: "Bow'n'Pencil", level: "Top Level", image: "https://images-platform.99static.com/l8nkyZeQIvyS-4ej5bWoz5zH92o=/0x0:1080x1080/400x400/projects-files/137/13788/1378831/1867e8f9-7ab4-4a79-9139-9f351a67da78.gif", project: "Solution 7" },
     { name: "thisisremedy", level: "Top Level", image: "https://images-platform.99static.com/NNpa_9dXgQTLsG-9URdKG2X4qak=/0x0:1060x1062/400x400/projects-files/183/18377/1837707/2a91d656-39ff-4bee-86b8-896967356561.png", project: "Swing & Serve" },
-    { name: "musework", level: "Top Level", image: "https://images-platform.99static.com/-pfU31mNL3gu-ZMlnWB93Yri0vI=/79x844:769x1534/400x400/99designs-contests-attachments/156/156438/attachment_156438344", project: "Truth" }
+    { name: "musework",     level: "Top Level", image: "https://images-platform.99static.com/-pfU31mNL3gu-ZMlnWB93Yri0vI=/79x844:769x1534/400x400/99designs-contests-attachments/156/156438/attachment_156438344", project: "Truth" }
   ];
 
   const categories = [

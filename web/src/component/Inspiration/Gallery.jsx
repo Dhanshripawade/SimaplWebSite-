@@ -1,7 +1,10 @@
 import React from 'react';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import { Card, Button, Container, Row, Col, Form } from 'react-bootstrap';
+import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card, Button, Container, Row, Col, Form } from 'react-bootstrap';
-import { useState } from 'react';
+
 
 const designData = [
   {
